@@ -33,7 +33,15 @@ This project is built using **Python, Streamlit, and Pandas** and is deployed as
 
 ## 📁 Project Structure
 
+excel-automation-project/
 
+├── app.py
+├── requirements.txt
+├── students.xlsx
+├── screenshots/
+│ └── app.png
+├── pdf_reports/
+└── README.md
 
 
 ---
